@@ -75,6 +75,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## Author
 
-- Md Rokonuzzaman - https://github.com/mdrokon2301
-- If you have any questions or would like to work together, feel free to contact me through the website or connect with me on Linkedin: https://linkedin.com/in/iamrokon.
+- [Md Rokonuzzaman](https://github.com/mdrokon2301)
+- If you have any questions or would like to work together, feel free to contact me through the website or connect with me on [Linkedin](https://linkedin.com/in/iamrokon)
 
